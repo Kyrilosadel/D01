@@ -1,11 +1,1 @@
-1. why the output of this Equation = $30.00?
-لان هنا مستخدم ال (c)format الي بيخلي الناتج الخارج يكون في هيئة فلوس فهنا ضاف علامة ال($)الي بتدل علي الدولار وضاف رقمين عشرين علشان لو فيه فكه في الحساب .
-2. what is its benefit?
-   فائدة ال (c) هي انها بتحول الناتج الي هيئة نقديه يعني بتضيف بجانب الرقم علامة العمله زي ($) بتشير للدولار وكمان بتقسم الرقم خانات(كل 3 ارقام ) علشان يسهل قراية الارقام الكبيره وكمان بيضيف رقمين عشرين علشان لو المبلغ مش صحيح
- 3. try another example with a different specifier with a screenshot of the output.
- double X = 10.545;
-  double Y = 20.564556;
-  Console.WriteLine($"Equation: {X} + {Y} = {X + Y:f5}");
-
-output->Equation: 10.545 + 20.564556 = 31.10956
-هنا ال (f) بتحدد عدد الرقام الي بعد العلامه العشريره (5 ارقام)
+https://drive.google.com/file/d/1FiQN1ECm3aEYpcGiJ9rvcRX5mqs-N5Aq/view?usp=sharing
